@@ -1,2 +1,2 @@
-# J-dusor
-Just Jédusor
+##SOON
+- Jédusor
